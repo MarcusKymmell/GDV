@@ -17,7 +17,7 @@
 
 ## munt pickup met UI en kist die opent na 3 munten
 
-![coin](![coin pickup box](https://github.com/user-attachments/assets/26e7483a-6b2a-4a0b-9c88-27d57c24b60b)
+![coin pickup box](https://github.com/user-attachments/assets/26e7483a-6b2a-4a0b-9c88-27d57c24b60b)
 
 
 [script_coin_pickup](../Coinpickup.cs)
