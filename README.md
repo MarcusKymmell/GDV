@@ -25,6 +25,6 @@
 
 ## player stats in console
 
-![console](../images/Screenshot 2025-11-18 124427.png)
+![console](../images/console)
 
 [script player stats](../player.cs)
