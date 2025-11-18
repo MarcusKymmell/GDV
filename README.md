@@ -22,3 +22,9 @@
 
 [script_coin_pickup](../Coinpickup.cs)
 [script_Coin_UI](../CoinUIManager.cs)
+
+## player stats in console
+
+![console](../images/Screenshot 2025-11-18 124427.png)
+
+[script player stats](../player.cs)
