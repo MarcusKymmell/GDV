@@ -25,6 +25,6 @@
 
 ## player stats in console
 
-![console](../images/console)
+![console](../images/console.jpg)
 
 [script player stats](../player.cs)
